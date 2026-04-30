@@ -6,7 +6,9 @@
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] My changes generate no new warnings
+- [ ] My changes generates no new errors/warnings
+- [ ] I have removed unwanted code
+- [ ] I have tested my code in the development environment
 
 ## Type of change
 
@@ -17,3 +19,4 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 ## Ticket number: 
+
