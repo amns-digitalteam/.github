@@ -1,5 +1,6 @@
 ## Describe your changes
 
+##### Mandatory: Run your code review through vscan-app (https://staging.amns.in/vscan-app/code-scans/) and attach the screenshot.
 
 ## Checklist before requesting a review
 
